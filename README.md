@@ -3,7 +3,7 @@
 Group: 26 <br>
 Author: Sebastian Lindgren <br>
 E-mail: linseb-9@student.ltu.se <br>
-Video presentation: https://youtu.be/G9DGSBrKKC8 <br>
+
 
 This project implements a simple Multilayer Perceptron(MLP) inside a Jupyter Notebook using the PyTorch library. The main goal was to test different Optimization functions. 
 SGD, Adam and RMSprop is tested with different number of neurons, layers and training epochs. <br>
